@@ -1,6 +1,6 @@
 # Cancer and Lymphoma Singapore
 
-The analysis of this data will be put toward my study of diffuse large B cell lymphoma. I.e. a lymphoid neoplasm.
+The analysis of this data will be put toward my study of diffuse large B cell lymphoma, the most prevalent and aggressive lymphoid neoplasm.
  
 # Lymphoid Neoplasms is consistently ranked 4th in males over the course of 3 studies
 
