@@ -1,6 +1,6 @@
 # Cancer and Lymphoma Singapore
 
-My work involves the study of diffuse large B cell lymphoma. I.e. a lymphoid neoplasm. 
+The analysis of this data will be put toward my study of diffuse large B cell lymphoma. I.e. a lymphoid neoplasm.
  
 # Lymphoid Neoplasms is consistently ranked 4th in males over the course of 3 studies
 
