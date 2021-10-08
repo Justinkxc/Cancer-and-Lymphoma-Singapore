@@ -1,9 +1,10 @@
 # Cancer and Lymphoma Singapore
- 
+
+
  
 # Top 5 Cancers for Males and Females in Singapore
 
- ![image](https://user-images.githubusercontent.com/61132301/136507749-45358b45-4e78-46d1-a749-4dcf635a3ef7.png)
+![image](https://user-images.githubusercontent.com/61132301/136508267-2472d9b0-9407-4e74-8fd4-4413ff8908f4.png)
 
 
 # Lymphoid Neoplasms across the 3 study periods
