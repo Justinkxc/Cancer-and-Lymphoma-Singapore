@@ -6,7 +6,7 @@ API Source: https://data.gov.sg/dataset/top-5-leading-cancers?view_id=98bdb253-f
  
 # Lymphoid Neoplasms have been consistently ranked the 4th highest male-prevalent cancer over the course of 3 studies
 
-![image](https://user-images.githubusercontent.com/61132301/136508267-2472d9b0-9407-4e74-8fd4-4413ff8908f4.png)
+![image](https://user-images.githubusercontent.com/61132301/136510397-c711e68e-08e7-4b8d-95de-e3bdb04ccd1b.png)
 
 
 # Incidence of lymphoid Neoplasms have remained largely unchanged throughout the years
